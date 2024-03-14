@@ -25,7 +25,7 @@ orjson==3.9.15
 packaging==23.2
 pluggy==1.4.0
 pydantic==1.10.14
-pydantic-extra-types==2.5.0
+pydantic-extra-types
 pydantic-settings==2.2.1
 pydantic_core==2.16.3
 pytest==8.0.2
